@@ -21,6 +21,7 @@ Student from Germany
   - Design & Translation
 
 - <img src="https://raw.githubusercontent.com/ben5vik/ben5vik/main/icons/fig.png" width=15/> [Fig](https://fig.io)
+  - Autocompletion
 
 <!--
 **ben5vik/ben5vik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
