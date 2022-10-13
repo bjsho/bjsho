@@ -25,6 +25,9 @@ Student from Germany
 - <img src="https://raw.githubusercontent.com/ben5vik/ben5vik/main/icons/fig.png" width=15/> [Fig](https://fig.io)
   - Autocompletion
 
+# What am I doing right now?
+[![Discord Presence](https://lanyard.cnrad.dev/api/:807001790100013076)](https://discord.com/users/:807001790100013076)
+
 <!--
 **ben5vik/ben5vik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
