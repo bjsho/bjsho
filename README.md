@@ -1,6 +1,9 @@
 # Ben S. (they/them)
 Student from Germany 
 
+# Languages'n stuff
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
 # How to contact me
 - via Mail: ben@tar.black
 - via Twitter: @ben5vik
