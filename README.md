@@ -20,6 +20,8 @@ Student from Germany
 - <img src="https://getcryst.al/site/assets/other/logo.png" width=15/> [Crystal Linux](https://getcryst.al)
   - Design & Translation
 
+- <img src="https://raw.githubusercontent.com/withfig/fig/main/static/FigBannerInverted.png#gh-dark-mode-only" width 15/> [Fig](https://fig.io/)
+
 
 <!--
 **ben5vik/ben5vik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
