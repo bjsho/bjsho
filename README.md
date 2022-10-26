@@ -1,6 +1,6 @@
 <h1 align="center">Hi<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
-# Ben S. (they/them)
+# Ben S. (he/him)
 Student from Germany 
 
 # Languages'n stuff
@@ -13,7 +13,10 @@ Student from Germany
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 # How to contact me
-> not available atm
+- via Mail: ben@tar.black
+- via Twitter: @ben5vik
+- via Instagram: @ben5vik
+- via Discord: ben5vik#9844
 
 # Projects I helped at
 - <img src="https://getcryst.al/site/assets/other/logo.png" width=15/> [Crystal Linux](https://getcryst.al)
