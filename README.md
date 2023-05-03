@@ -1,7 +1,7 @@
 <h1 align="center">Hi<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
 
 ## Ben S. (he/they)
-Student from Germany 
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengiv)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My website and links
 [website](https://eryn.cloud/ben/index.html)
