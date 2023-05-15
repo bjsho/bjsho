@@ -27,7 +27,7 @@
 - <img src="https://raw.githubusercontent.com/bengiv/bengiv/main/icons/fig.png" width=15/> [Fig](https://fig.io)
   - Autocompletion
 
-- [HyFetch]([https://fig.io](https://github.com/hykilpikonna/hyfetch))
+- [HyFetch](https://fig.io](https://github.com/hykilpikonna/hyfetch)
 
 ## What am I doing right now?
 [![Discord Presence](https://lanyard.cnrad.dev/api/807001790100013076)](https://discord.com/users/807001790100013076)
