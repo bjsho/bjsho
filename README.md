@@ -1,4 +1,4 @@
-<h1 align="center" src="https://raw.githubusercontent.com/bengiv/bengiv/main/assets/banner/ben.png"></h1>
+<img src="https://raw.githubusercontent.com/bengiv/bengiv/main/assets/banner/ben.png">
 
 ## Ben S. (he/they)
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengiv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
