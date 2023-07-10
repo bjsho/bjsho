@@ -1,11 +1,11 @@
-<h1 align="center">Hi<img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></h1>
+<h1 align="center"><src="https://raw.githubusercontent.com/bengiv/bengiv/main/assets/banner/ben.png"></h1>
 
 ## Ben S. (he/they)
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengiv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## My website and links
+<!-- ## My website and links
 [N/A](https://ben.eryn.cloud/index.html)
-- Discord: bengiv
+- Discord: bengiv -->
 
 ## Languages'n stuff
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
