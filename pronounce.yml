@@ -6,15 +6,15 @@ age:   14
 pronouns: 
      - they/he
 contacts:
-     - "E-Mail:  ben@eryn.cloud"
-     - "Discord: bengiv#0001"
-     - "Instagram: @ben.giv"
+     - "E-Mail:  ben@tar.black"
+     - "Discord: bengiv"
 urls:
      - "https://github.com/bengiv/"
      - "https://en.pronouns.page/@bengiv"
+     - "https:/archlinux.org"
      - "https://getcryst.al"
-     - "https://eryn.cloud"
-
+     - "https://blahaj.land"
+     
 colors:
   background: "#0e0e0eff"
   foreground: "#eeeeeeff"
