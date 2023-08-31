@@ -2,7 +2,7 @@
 
 ## Languages'n stuff
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-# Learning
+### Learning
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 [![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengiv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
