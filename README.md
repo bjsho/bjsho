@@ -16,23 +16,15 @@
 <!-- # GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=bengiv&theme=dark)](https://git.io/streak-stats)
 ![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bengiv&count_private=true&show_icons=true&theme=dark) -->
+## Who am I?
+- a student
+- definetely not a skilled developer
+
 ## My Projects
 ### ORB - Ores are back
 A Minecraft mod which makes ores drop the good ol' ores, no raw ores, this will also make them unfortuneable.
 This mod also has mod extensions for [Create](https://github.com/bengiv/orbc) and [BYG](https://github.com/bengiv/orbb)
 
-## Projects I contributed at
-- <img src="https://getcryst.al/site/assets/other/logo.png" width=15/> [Crystal Linux](https://getcryst.al)
-  - Design & Translation
-
-- <img src="https://raw.githubusercontent.com/bengiv/bengiv/main/assets/icons/fig.png" width=15/> [Fig](https://fig.io)
-  - Autocompletion commands
-
-- [HyFetch](https://github.com/hykilpikonna/hyfetch)
-
-## What am I doing right now?
-[![Discord Presence](https://lanyard.cnrad.dev/api/807001790100013076)](https://discord.com/users/807001790100013076)
-
 <!--
-**ben5vik/ben5vik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bengiv/bengiv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
