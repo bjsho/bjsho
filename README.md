@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/bengiv/bengiv/main/assets/banners/ben.png">
+# <img src="https://raw.githubusercontent.com/bjsho/bjsho/refs/heads/main/assets/banners/ben.png">
 
 <!--
 ## Languages'n stuff
